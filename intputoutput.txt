@@ -1,0 +1,86 @@
+#include <stdio.h>
+#pragma warning (disable:4996)
+
+
+
+
+int main() {
+
+	/*printf("====================04===================\n");
+	int a = 1234;
+	float b = 1.1;
+	printf("%s \n", "서식 문자를 출력하는중입니다.");
+	printf("%s \n", "이것은 문자열을 출력합니다 %s");
+
+	printf("%d  %s\n ", a,"이것은 정수를 출력합니다 %d");
+	printf("%f  %s\n ", b, "이것은 실수를 출력합니다 %f");
+
+	
+	printf("====================05===================\n");
+
+	printf("%s\n", "I can programming well.");
+	printf("%s\n", " Dreams come true.");
+	 
+	printf("====================06===================\n");
+	int height,age;
+	printf("당신의 나이는 ?");
+	scanf("%d",&age);
+	printf("%d\n",age);
+	printf("당신의 몸무게는 ?\n");
+	scanf("%d",&height);
+	printf("%d\n",height);
+	
+
+	printf("=================07========================\n");
+	int num1, num2;
+	printf("두 수를 입력하시오\n");
+	scanf("%d %d",&num1,&num2);
+	printf("%d %d =  %d\n", num1,num2,num1+num2);
+
+	printf("========================08==========================");
+	int num3, num4;
+
+	printf("두 수를 입력하시오\n");
+	scanf("%d %d", &num3, &num4);
+	printf("%d + %d = %d\n", num3, num4,num3+num4);
+	printf("%d - %d = %d\n", num3, num4,num3-num4);
+	printf("%d * %d = %d\n", num3, num4,num3*num4);
+	printf("%d ÷ %d = %d\n", num3, num4,num3%num4);*/
+
+	
+
+
+	/*int a, b;
+	
+	scanf("%d %d",&a,&b);
+		
+	printf("%d",a += b);*/
+
+//printf("====================09======================");
+//		
+//	int num1;
+//	scanf("%d", &num1);
+//
+//	if (num1%2 == 0) {
+//		printf("짝수입니당");
+//
+//
+//
+//	}
+//	
+//	if (num1 % 2 == 1) {
+//
+//		printf("홀수입니당");
+//	}
+
+
+
+	
+
+
+	
+
+
+
+	return 0;
+}
